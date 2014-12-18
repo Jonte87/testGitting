@@ -24,14 +24,11 @@
 
 
 				</form>
-			<p>
-<<<<<<< HEAD
-			Mina git kommandon
-				git init // initializes the 
-=======
+	
 				<h1>Mina git kommandon</h1>
+				<p>
+				git init // initializes the 
 				git init // startar git lokalt
->>>>>>> 68ce0042991455f0cb680e74277f09c748820b6f
 				git add -A // adderar alla filer i git lokalt
 				git commit  -am "din kommentar" // sparar alla ändringar
 				git status // kollar läget i vår branch
