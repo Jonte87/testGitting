@@ -14,6 +14,16 @@
 	<body>
 
 		<main>
+
+				<form>
+					
+					<input type="text" name="name" value="name">
+					<input type="text" name="name" value="name">
+					<input type="text" name="name" value="name">
+					<input type="text" name="name" value="name">
+
+
+				</form>
 			<p>
 				<h1>Mina git kommandon</h1>
 				git init // startar git lokalt
