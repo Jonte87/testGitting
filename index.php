@@ -39,7 +39,8 @@
 				git diff // kollar skillnaden mellan senaste committen och osparade ändringar efter commite
 				git branch -D <branch> // raderar förgreningen
 			</p>
-
+				
+				<p>I've made some changes in this document Jason!</p>
 
 
 		</main>
