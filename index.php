@@ -15,7 +15,7 @@
 
 		<main>
 			<p>
-			Mina git kommandon
+				<h1>Mina git kommandon</h1>
 				git init // startar git lokalt
 				git add -A // adderar alla filer i git lokalt
 				git commit  -am "din kommentar" // sparar alla ändringar
