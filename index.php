@@ -16,7 +16,7 @@
 		<main>
 			<p>
 			Mina git kommandon
-				git init // startar git lokalt
+				git init // initializes the 
 				git add -A // adderar alla filer i git lokalt
 				git commit  -am "din kommentar" // sparar alla ändringar
 				git status // kollar läget i vår branch
