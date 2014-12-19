@@ -42,6 +42,7 @@
 				git branch -D <branch> // raderar förgreningen
 			</p>
 				
+				<h2>Information here</h2>
 				<p>I've made some changes in this document Jason!</p>
 
 
