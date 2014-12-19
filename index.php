@@ -7,13 +7,14 @@
 <html>
 	<head>
 		
-		<title>Welcome to Wonderland</title>
+		<title>Wonderland.com</title>
 
 	</head>
 
 	<body>
 
 		<main>
+				<h1>Welcome To Wonderland</h1>
 			<table>
 				<form action="#" method="POST">
 					<tr>
@@ -37,13 +38,13 @@
 			</table>
 	
 				<h1>About US</h1>
-				<p>
-				Put all the information about this specific document in this paragraph. 
-				This should contain the main goal and aim of this project. 
-				</p>
+					<p>
+					Put all the information about this specific document in this paragraph. 
+					This should contain the main goal and aim of this project. 
+					</p>
 				
 				<h2>Information here</h2>
-				<p>I've made some changes in this document Jason!</p>
+					<p>I've made some changes in this document Jason!</p>
                     
                     
                     
