@@ -14,33 +14,33 @@
 	<body>
 
 		<main>
+			<table>
+				<form action="#" method="POST">
+					<tr>
+					<td><input type="text" name="firstName" placeholder="First name"></td>
+					</tr>
 
-				<form>
+					<tr>
+					<td><input type="text" name="surName" placeholder="Surname"></td>
+					</tr>
+					<tr>
+					<td><input type="text" name="number" placeholder="Phone number"></td>
+					</tr>
 					
-					<input type="text" name="name" value="name">
-					<input type="text" name="name" value="name">
-					<input type="text" name="name" value="name">
-					<input type="text" name="name" value="name">
+					<tr>
+					<td><input type="text" name="adress" placeholder="Adress"></td>
+					</tr>
 
 					<input type="submit" name="submit">
 
-
 				</form>
+			</table>
 	
-				<h1>Mina git kommandon</h1>
+				<h1>About US</h1>
 				<p>
-				git init // initializes the 
-				git init // startar git lokalt
-				git add -A // adderar alla filer i git lokalt
-				git commit  -am "din kommentar" // sparar alla ändringar
-				git status // kollar läget i vår branch
-				git branch // kollar vilka förgrenar vi har
-				git branch <branch> // skapar en ny förgrening
-				git checkout <branch> // hoppar till förgreningen
-				git merge <branch> // sätter ihop förgreningarna till en
-				git diff // kollar skillnaden mellan senaste committen och osparade ändringar efter commite
-				git branch -D <branch> // raderar förgreningen
-			</p>
+				Put all the information about this specific document in this paragraph. 
+				This should contain the main goal and aim of this project. 
+				</p>
 				
 				<h2>Information here</h2>
 				<p>I've made some changes in this document Jason!</p>
@@ -59,6 +59,7 @@
 
 		<footer>
 			
+				<p>Powered by Jon Dalflo and Jason Naso.</p>
 
 		</footer>
 
