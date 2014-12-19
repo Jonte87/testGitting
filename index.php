@@ -22,6 +22,8 @@
 					<input type="text" name="name" value="name">
 					<input type="text" name="name" value="name">
 
+					<input type="submit" name="submit">
+
 
 				</form>
 	
